@@ -16,3 +16,10 @@ Method bodies are empty. Fill them however you want. Or just put breakpoints and
     client.Endpoint.EndpointBehaviors.Add(new LoggingEndpointBehaviour(new LoggingMessageInspector()));
 ```
 That's all. It must be working now. If not, open an issue.
+
+## Contributions are welcome
+If you have ideas to make it better open an issue or just send pr. Some ideas:
+* Make it a library
+  * Make it a nuget package
+* Add log appenders
+* Fix/add more info to read me
