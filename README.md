@@ -23,3 +23,6 @@ If you have ideas to make it better open an issue or just send pr. Some ideas:
   * Make it a nuget package
 * Add log appenders
 * Fix/add more info to read me
+  * example code
+  * example messages
+  * images
